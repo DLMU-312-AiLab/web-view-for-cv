@@ -26,8 +26,8 @@ source venv/bin/activate
 # 安装Flask
 pip install Flask
 
-# 运行
-python3 main.py x.x.x.x 8080
+# 运行，后续需要把ip换成公网或者域名
+python3 main.py 127.0.0.1 8080
 ```
 
 # 你需要做的
